@@ -1,6 +1,6 @@
-# Personal ChatGPT Bot
+# Personal Chatbot
 
-A Personal ChatGPT Bot built with Django for the backend, React for the frontend, and powered by OpenAI's GPT-4. This application allows users to have secure and private conversations with an AI model.
+A Personal Chatbot built with Django for the backend, React for the frontend, and powered by OpenAI's GPT-4. This application allows users to have secure and private conversations with an AI model.
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ A Personal ChatGPT Bot built with Django for the backend, React for the frontend
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fazil-shaikh/personal-chatgpt
+   git clone https://github.com/fazil-shaikh/personal-chatbot
    cd .\ai-chatbot\django\
    ```
 2. Create a virtual environment and activate it:
